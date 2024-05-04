@@ -4,7 +4,7 @@
 <h3 align="center">My works are represented below:</h3>
 <ul>
   <li> Next JS: <a href="http://remotellamas.com"> Project for Executive mentor </a></li>
-  <li> React JS: <a href="https://hannatsilikina.github.io/pocket-dictionary/"> App for studying english words </a> </li>
+  <li> React JS/Firebase: <a href="https://hannatsilikina.github.io/pocket-dictionary/"> App for studying english words </a> </li>
 </ul>
 
 
