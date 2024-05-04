@@ -7,6 +7,10 @@
   <li> React JS/Firebase: <a href="https://hannatsilikina.github.io/pocket-dictionary/"> App for studying english words </a> </li>
 </ul>
 
+<h3 align="center">Languages and Tools</h3>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 
 
 
