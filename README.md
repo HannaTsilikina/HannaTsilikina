@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Hanna</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend Developer</h3>
@@ -8,7 +11,10 @@
 </ul>
 
 <h3 align="center">Languages and Tools</h3>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
+            <i class="devicon-html5-plain-wordmark"></i>
+          
           
 
 
